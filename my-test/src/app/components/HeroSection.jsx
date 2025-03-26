@@ -16,7 +16,7 @@ export default function HeroSection() {
         {/* Overlay chứa nội dung */}
         <div className="absolute top-0 left-0 w-full h-full  from-black/60 via-black/30 to-transparent rounded-2xl p-6">
           {/* Logo */}
-          <div className="bg-white px-4 py-2 rounded-tl-2xl text-blue-700 font-bold text-5xl w-fit">
+          <div className="bg-white px-4 py-2 rounded-2xl  text-blue-700 font-bold text-5xl w-fit"> 
             hekate
           </div>
 
